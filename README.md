@@ -29,7 +29,7 @@ $ pip install hb-config
 or clone repository
 
 ```
-git clone https://github.com/hb-research/hb-config.git
+git clone https://github.com/mike-sino/hb-config.git
 python setup.py install
 ```
 
