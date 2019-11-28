@@ -63,7 +63,7 @@ class HBConfigMeta(type):
             path = os.path.join(path)
 
             config = self.parse_description_then_remove(path)
-            return yaml.load(config)
+            return yaml.load(config, Loader=yaml.FullLoader)
 
         def parse_description_then_remove(self, path):
 
