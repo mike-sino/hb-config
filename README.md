@@ -20,18 +20,19 @@ hb-config is utility for easy to configure your python project especially **Deep
 
 ## Install
 
-using pip
-
-```
-$ pip install hb-config
-```
-
-or clone repository
+clone repository (suggested)
 
 ```
 git clone https://github.com/mike-sino/hb-config.git
 python setup.py install
 ```
+
+or using pip (not suggested for it needs update)
+
+```
+$ pip install hb-config
+```
+
 
 ## Usage
 
