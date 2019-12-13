@@ -23,8 +23,8 @@ hb-config is utility for easy to configure your python project especially **Deep
 clone repository (suggested)
 
 ```
-git clone https://github.com/mike-sino/hb-config.git
-python setup.py install
+$ git clone https://github.com/mike-sino/hb-config.git
+$ python setup.py install
 ```
 
 or using pip (not suggested for it needs update)
